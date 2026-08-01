@@ -535,7 +535,6 @@ A: Yes, remove Tavily dependency. Queries will use index or general LLM only.
 ## 💬 Support & Contact
 
 For issues, questions, or suggestions:
-- Open an [Issue](https://github.com/dhruvsinghal09/Adaptive-Rag/issues)
 - Check existing documentation
 - Review the code comments
 
@@ -560,9 +559,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Dhruv Singhal**
-- GitHub: [@dhruvsinghal09](https://github.com/dhruvsinghal09)
-- Project: [Adaptive RAG](https://github.com/dhruvsinghal09/Adaptive-Rag)
+**Mrituyanjay SHarma**
+- GitHub: [@dhruvsinghal09](https://github.com/Mjsharma1234)
+- Project: [Adaptive RAG](https://github.com/Mjsharma1234/Adaptive-Rag)
 
 ---
 
