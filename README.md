@@ -560,7 +560,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Mrituyanjay SHarma**
-- GitHub: [@dhruvsinghal09](https://github.com/Mjsharma1234)
+- GitHub: [@Mjsharma1234](https://github.com/Mjsharma1234)
 - Project: [Adaptive RAG](https://github.com/Mjsharma1234/Adaptive-Rag)
 
 ---
